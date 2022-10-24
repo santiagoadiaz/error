@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "marca": "DOG CHOW",
+        "nombre": "ADULT PAVO",
+        "precio": 1800,
+        "stock": 10,
+        "img": "../img/food-dog-1.webp",
+        "category": "dog"
+    },
+    {
+        "id": 2,
+        "marca": "DOG CHOW",
+        "nombre": "CACHORRO",
+        "precio": 1200,
+        "stock": 8,
+        "img": "../img/food-dog-2.webp",
+        "category": "dog"
+    },
+    {
+        "id": 3,
+        "marca": "PEDIGREE",
+        "nombre": "DENTASTIX PEQUE",
+        "precio": 2100,
+        "stock": 5,
+        "img": "../img/food-dog-3.webp",
+        "category": "dog"
+    },
+    {
+        "id": 4,
+        "marca": "DOG CHOW",
+        "nombre": "ADULT CARNE",
+        "precio": 1200,
+        "stock": 1,
+        "img": "../img/food-dog-4.webp",
+        "category": "dog"
+    },
+    {
+        "id": 5,
+        "marca": "PURINA",
+        "nombre": "FELIX PESCADO",
+        "precio": 3000,
+        "stock": 10,
+        "img": "../img/food-cat-1.webp",
+        "category": "cat"
+    },
+    {
+        "id": 6,
+        "marca": "PURINA",
+        "nombre": "GATI S&P",
+        "precio": 2400,
+        "stock": 8,
+        "img": "../img/food-cat-2.webp",
+        "category": "cat"
+    },
+    {
+        "id": 7,
+        "marca": "PURINA",
+        "nombre": "CAT CHOW 1KG",
+        "precio": 2500,
+        "stock": 5,
+        "img": "../img/food-cat-3.webp",
+        "category": "cat"
+    },
+    {
+        "id": 8,
+        "marca": "WHISKAS",
+        "nombre": "ADULT CARNE",
+        "precio": 2000,
+        "stock": 1,
+        "img": "../img/food-cat-4.webp",
+        "category": "cat"
+    }
+]
